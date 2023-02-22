@@ -18,12 +18,12 @@ Automation Used:<br>
 *Phyton<br>
 
 Job Desk Team :
-1.  <br>
+1. name <br>
 Test Case : <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-2. <br>
+2. name <br>
 Test Case : <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
@@ -33,12 +33,12 @@ Test Case : Menu Admin - Organization - Locations  <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-4.  <br>
+4.  name <br>
 Test Case :  <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-5.  <br>
+5.  name <br>
 Test Case :  <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
