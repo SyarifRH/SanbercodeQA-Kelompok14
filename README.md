@@ -11,7 +11,7 @@ URL to Test:
 
 Test Plan Document :  <br>
 
-Test Case : 0 <br>
+Test Case : https://docs.google.com/spreadsheets/d/1ndPUBLFhdzFVT5V11oTSAxzFqxheNPLX/edit#gid=1629498558 <br>
 
 Automation Used:<br>
 *Selenium<br>
