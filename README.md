@@ -2,7 +2,7 @@
 
 Team Member:
 1.  <br>
-2. <br>
+2. Nur Safitri Febrianti<br>
 3. Syarif Ridhohidayatulloh<br>
 4. Okta Reza Pratama<br>
 5. <br>
