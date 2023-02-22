@@ -23,8 +23,8 @@ Test Case : <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-2. Nur Safitri Febrianti
-Test Case : Menu PIM- Employee List
+2. Nur Safitri Febrianti <br>
+Test Case : Menu PIM- Employee List <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
