@@ -17,6 +17,10 @@ Automation Used:<br>
 *Selenium<br>
 *Phyton<br>
 
+Browser For Testing : <br>
+
+*Google Chrome Version 110.xxxx <br>
+
 Job Desk Team :
 1. name <br>
 Test Case : <br>
