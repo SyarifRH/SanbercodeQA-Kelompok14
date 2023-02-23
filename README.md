@@ -2,12 +2,12 @@
 
 Team Member:
 1.  <br>
-2. Nur Safitri Febrianti<br>
+2. Putri Fanny<br>
 3. Syarif Ridhohidayatulloh<br>
-4. Okta Reza Pratama<br>
-5. <br>
+4. Nur Safitri Febrianti<br>
+5. Okta Reza Pratama<br>
  
-URL to Test: 
+URL to Test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 Test Plan Document :  <br>
 
@@ -23,8 +23,8 @@ Test Case : <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-2. Nur Safitri Febrianti <br>
-Test Case : Menu PIM- Employee List <br>
+2. Putri Fanny <br>
+Test Case : Menu Admin - Job - Job Titles <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
@@ -33,12 +33,12 @@ Test Case : Menu Admin - Organization - Locations  <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-4.  name <br>
-Test Case :  <br>
+4.  Nur Safitri Febrianti <br>
+Test Case : Menu PIM- Employee List <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-5.  name <br>
-Test Case :  <br>
+5.  Okta Reza Pratama <br>
+Test Case :  Menu PIM - Add Employee<br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
