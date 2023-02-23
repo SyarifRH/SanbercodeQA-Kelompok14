@@ -7,7 +7,7 @@ Team Member:
 4. Nur Safitri Febrianti<br>
 5. Okta Reza Pratama<br>
  
-URL to Test: 
+URL to Test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 Test Plan Document :  <br>
 
@@ -38,7 +38,7 @@ Test Case : Menu PIM- Employee List <br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
 
-5.  name <br>
-Test Case :  <br>
+5.  Okta Reza Pratama <br>
+Test Case :  Menu PIM - Add Employee<br>
 Pengujian : Manual & Automation <br>
 Video Automation : 
