@@ -1,7 +1,7 @@
 # SanberodeQA-Kelompok14
 
 Team Member:
-1.  <br>
+1. Serenada Nindya Nauli Manalu<br>
 2. Putri Fanny<br>
 3. Syarif Ridhohidayatulloh<br>
 4. Nur Safitri Febrianti<br>
