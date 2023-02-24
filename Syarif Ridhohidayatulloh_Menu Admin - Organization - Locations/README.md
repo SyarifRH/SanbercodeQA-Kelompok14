@@ -10,7 +10,7 @@
 1. Open file project name testRunning.py and click icon run / type python testRunning.py<br>
 2. Wait proccess running test unitl end.<br>
       <h2>Result Test</h2><br>
-      ![Capture](https://user-images.githubusercontent.com/98494067/221225031-9ce1a281-76ca-4a17-a000-dd17c8676a00.PNG)
+      https://user-images.githubusercontent.com/98494067/221225031-9ce1a281-76ca-4a17-a000-dd17c8676a00.PNG
 
 
 <h2>Information :</h2>
