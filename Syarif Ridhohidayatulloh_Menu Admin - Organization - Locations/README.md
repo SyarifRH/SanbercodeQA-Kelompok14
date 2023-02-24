@@ -7,7 +7,7 @@
 5. Running Test / Jalankan test dengan cara membuka terminal VS Code ketik "python testRunning.py" > Enter
 
 <h2>Information :</h2>
-1. File testCase.py = File project berisikan test case Negative & Positive
-2. File testRunning.py = File project berisikan test running keseluruhan dari testCase.py
-3. File element.py = File project berisikan element locator
-4. File data.py = File project berisikan data/nilai value test
+1. File testCase.py = File project berisikan test case Negative & Positive <br>
+2. File testRunning.py = File project berisikan test running keseluruhan dari testCase.py <br>
+3. File element.py = File project berisikan element locator <br>
+4. File data.py = File project berisikan data/nilai value test <br>
