@@ -9,7 +9,7 @@ Team Member:
  
 URL to Test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
-Test Plan Document :  <br>
+Test Plan Document : https://docs.google.com/document/d/1vOWx0nzjTI2wlVuP1ilq5G75xqKyhzbc/edit?usp=sharing&ouid=117711146357162899908&rtpof=true&sd=true <br>
 
 Test Case : https://docs.google.com/spreadsheets/d/1ndPUBLFhdzFVT5V11oTSAxzFqxheNPLX/edit#gid=1629498558 <br>
 
