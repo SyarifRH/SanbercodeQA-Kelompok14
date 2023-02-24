@@ -22,10 +22,10 @@ Browser For Testing : <br>
 *Google Chrome Version 110.xxxx <br>
 
 Job Desk Team :
-1. name <br>
-Test Case : <br>
+1. Serenada Nindya Nauli Manalu <br>
+Test Case : Login - Logout <br>
 Pengujian : Manual & Automation <br>
-Video Automation : 
+Video Automation : https://drive.google.com/drive/folders/1813Q_GmwqzKieZJAj8W2b5NLcfaqoFTB?usp=sharing
 
 2. Putri Fanny <br>
 Test Case : Menu Admin - Job - Job Titles <br>
