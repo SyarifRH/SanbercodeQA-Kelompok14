@@ -1,5 +1,6 @@
 import unittest
 import time
+import pyautogui
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
@@ -41,14 +42,11 @@ class TestLogin(unittest.TestCase):
         upload_button.click()
         time.sleep(3)
 
-        # Upload file
-        self.driver.find_element(By.CSS_SELECTOR, ".oxd-file-input").send_keys("C:/Users/asus/Desktop/IMG_2166.JPG")#sesuaikan folder foto itu berada
-        time.sleep(8)
-
-        # Close dialog open file dan klik area di luar dialog(di automation eror tetap tidak bisa close dialog harus dilakukan manual ketika sudah memilih file
-        # ini saja saya sudah pancing pakai js tetap tidak mau)
-        self.driver.execute_script("window.onbeforeunload = null; window.close();")
-        time.sleep(3)
+        # Klik tombol untuk upload foto
+        pyautogui.typewrite(r"C:\Users\asus\Desktop\IMG_2166.JPG")#sesuaikan folder foto itu berada
+        time.sleep(2)
+        pyautogui.press('enter')
+        time.sleep(2)
 
         self.driver.find_element(By.CSS_SELECTOR, "button.oxd-button.oxd-button--medium.oxd-button--secondary").click() #klik save
         time.sleep(8)
