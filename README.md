@@ -45,4 +45,4 @@ Video Automation :
 5.  Okta Reza Pratama <br>
 Test Case :  Menu PIM - Add Employee<br>
 Pengujian : Manual & Automation <br>
-Video Automation : 
+Video Automation : https://drive.google.com/drive/folders/10LHVJKlKHNOMKS3OMblwWP70T2Xi_AvG?usp=sharing
