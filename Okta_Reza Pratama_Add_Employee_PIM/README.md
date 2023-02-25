@@ -2,12 +2,12 @@
 
 Catataan
 
-1. Dalam Coding Saya tidak menjadi 1 file untuk setiap test case karena saya membuat banyak test case sebanyak 13 Test Case Sesuai File Coding.
-Sehingga jika terjadi eror akan menjadi sulit untuk di track, karena saya juga lebih senang membuat banyak file ketika coding zaman kuliah.
-Saya beri nama TST pada setiap nama file Sesuai Test Case.
-2. Ada Bug dari automation python yang tidak mau close dialaog ketika open file upload photo dan dialog openfile tidak mau close automatis saya sudah 
-mengakali banyak cara tetapi belum berhasil. Tapi upload file sudah berjalan sesuai test case dan complete.
-3. Jika ingin run pada TST 4 dan TST 14 harus menyesuaikan kembali upload lokasi folder berada
+1. Dalam coding saya tidak menjadi 1 file untuk setiap test case karena saya membuat banyak test case sebanyak 13 Test Case sesuai file coding.
+Sehingga jika terjadi eror akan menjadi sulit untuk di track jika satu file, karena saya juga lebih senang membuat banyak file ketika coding zaman kuliah.
+Saya beri nama TST pada setiap nama file sesuai Test Case.
+2. Ada Bug dari automation python yang tidak mau close dialaog ketika open file upload photo dan dialog open file tidak mau close secara automatis saya sudah 
+mengakali/mencari banyak cara tetapi belum berhasil. Tapi upload file sudah berjalan sesuai test case dan complete.
+3. Jika ingin run pada TST 4 dan TST 14 harus menyesuaikan kembali upload file lokasi folder berada.
 4. Untuk Screenshoot dan video saya sudah upload untuk detilnya
-   Berikut Linknya : 
+   Berikut Linknya : https://drive.google.com/drive/folders/10LHVJKlKHNOMKS3OMblwWP70T2Xi_AvG?usp=sharing <br>
 5. Terima Kasih
