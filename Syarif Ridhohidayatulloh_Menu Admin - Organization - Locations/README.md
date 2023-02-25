@@ -1,4 +1,4 @@
-# How To Run Test Case
+# How To Run Test Case Fully Tests
 
 1. Clone URL Github
 2. Clone URL di VS Code
