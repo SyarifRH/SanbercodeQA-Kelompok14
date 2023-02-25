@@ -37,8 +37,7 @@ Job Desk Team :
 3. Syarif Ridhohidayatulloh <br>
    Test Case : Menu Admin - Organization - Locations <br>
    Pengujian : Manual & Automation <br>
-   Capture Result & Video Automation :
-   https://drive.google.com/drive/folders/18YXL97SNjfC39cixk40p9u-kz-FTGjyZ?usp=sharing
+   Capture Result & Video Automation : https://drive.google.com/drive/folders/18YXL97SNjfC39cixk40p9u-kz-FTGjyZ?usp=sharing
 
 4. Nur Safitri Febrianti <br>
    Test Case : Menu PIM- Employee List <br>
