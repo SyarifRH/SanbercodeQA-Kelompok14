@@ -32,7 +32,7 @@ Job Desk Team :
 2. Putri Fanny <br>
    Test Case : Menu Admin - Job - Job Titles <br>
    Pengujian : Manual & Automation <br>
-   Capture Result & Video Automation :
+   Capture Result & Video Automation : https://drive.google.com/drive/folders/1J2V24I3Lqy8kcLd4zS3Vf8un5O8ZDXGB?usp=sharing
 
 3. Syarif Ridhohidayatulloh <br>
    Test Case : Menu Admin - Organization - Locations <br>
