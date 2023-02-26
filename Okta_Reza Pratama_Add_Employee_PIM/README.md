@@ -9,4 +9,6 @@ Saya beri nama TST pada setiap nama file sesuai Test Case.
 3. Jika ingin run pada TST 4 dan TST 13 harus menyesuaikan kembali upload file lokasi folder berada.
 4. Untuk Screenshoot dan video saya sudah upload untuk detilnya
    Berikut Linknya : https://drive.google.com/drive/folders/10LHVJKlKHNOMKS3OMblwWP70T2Xi_AvG?usp=sharing <br>
-5. Terima Kasih
+5. Positive test dengan code : TST 1, TST 3, TST 4, TST,5 TST 6 <br>
+   Negative test dengan code : TST 2, TST 7, TST 8, TST 9, TST 10, TST 11, TST 12, TST 13<br>
+6. Terima kasih
