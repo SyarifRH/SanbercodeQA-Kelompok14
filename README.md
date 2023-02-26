@@ -20,7 +20,7 @@ Automation Used:<br>
 
 Browser For Testing : <br>
 
-\*Google Chrome Version 110.xxxx <br>
+\*Google Chrome Version 110.0.5481.178 <br>
 
 Job Desk Team :
 
@@ -42,7 +42,7 @@ Job Desk Team :
 4. Nur Safitri Febrianti <br>
    Test Case : Menu PIM- Employee List <br>
    Pengujian : Manual & Automation <br>
-   Capture Result & Video Automation :
+   Capture Result & Video Automation : https://drive.google.com/drive/folders/1PTMvz3H_I_L9_6oHhKd_9TzDMKwot3Xv?usp=sharing
 
 5. Okta Reza Pratama <br>
    Test Case : Menu PIM - Add Employee<br>
