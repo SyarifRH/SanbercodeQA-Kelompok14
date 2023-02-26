@@ -33,7 +33,7 @@ class TestEmployeeList(unittest.TestCase):
         error_message= driver.find_element(By.XPATH, element.employee_not_found).text
         self.assertIn("No Records Found",error_message)
 
-    # Test HRM09 (Failed search employee list by employee Is)
+    # Test HRM09 (Failed search employee list by employee Id)
     def test_HRM_09(self):
         # Login
         driver = self.driver #buka web browser
@@ -52,30 +52,7 @@ class TestEmployeeList(unittest.TestCase):
         #validation of error
         error_Id= driver.find_element(By.XPATH, element.employee_not_found).text
         self.assertIn("No Records Found",error_Id)
-
-    # Test HRM10 (failed add button on employee list sub-menu)
-    def test_HRM_10(self):
-        # Login
-        driver = self.driver #buka web browser
-        basicLogin.valid_login(driver)
-
-        #PIM Menu
-        driver.find_element(By.LINK_TEXT, element.PIM).click() #klik PIM menu
-        time.sleep(1)
-        driver.find_element(By.LINK_TEXT,element.employee_list).click() #klik Employee list
-        time.sleep(1)
-        driver.find_element(By.CSS_SELECTOR, element.add_button).click() # klik add button
-        time.sleep(2)
-        driver.find_element(By.NAME, element.first_name).send_keys("aku") # isi first name
-        time.sleep(1)
-        driver.find_element(By.NAME, element.middle_name).send_keys("saya") # isi middle name
-        time.sleep(1)
-        driver.find_element(By.NAME, element.last_name).send_keys("me") # isi last name
-        time.sleep(1)
-        driver.find_element(By.CSS_SELECTOR, element.save_button).click() #klik save
-        time.sleep(8)
-       
-       
+            
 
     def tearDown(self):
         self.driver.close()
